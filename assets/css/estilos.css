@@ -11,10 +11,14 @@ body {
   background-position: left;
 }
 
+.container {
+  color: #03989e;
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
-  height: 250px;
+  height: 200px;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
